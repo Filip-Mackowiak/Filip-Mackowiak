@@ -23,4 +23,4 @@ Combining both my academic and work experience allows me to develop quickly and 
 [![Familiarities](https://skillicons.dev/icons?i=nginx,scala,gherkin,go,pytorch,tensorflow,firebase,gamemakerstudio,bun,heroku,latex,r)](https://skillicons.dev)
 
 ## Find me there! 📲
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-maćkowiak-812304266/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-mackowiak/)
