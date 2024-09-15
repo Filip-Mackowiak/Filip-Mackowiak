@@ -6,7 +6,7 @@ I am a passionate software engineer who never has enough challenges on his list.
 If I were to describe myself in a single catchphrase, it would be: “Opportunities don’t happen, you create them”.
 
 ## Education and work experience 🎓 💼
-I am a 2nd-year Practical Computer Science student at the University of Gdańsk. Aside from just studying, I am a Year Representative, co-founder of the thriving academic club "Work In Progress", and the main coordinator of a growing university-wide initiative which already gathers over 30 students.
+I am a 3rd-year Practical Computer Science student at the University of Gdańsk. Aside from just studying, I am a Year Representative, co-founder of the thriving academic club "Work In Progress", and the main coordinator of a growing university-wide initiative which already gathers over 30 students.
 
 Apart from university, I work as a front-end developer in a software company where I have learnt a lot about cooperation and practical usage of my skills.
 Combining both my academic and work experience allows me to develop quickly and help those around me.
